@@ -1,0 +1,120 @@
+.noneDisplay{
+    display: none;
+}
+.buttonBox{
+    text-align: center;
+    button{
+        cursor: pointer;
+    }
+    
+}
+.infoBox{
+    direction: rtl;
+    text-align: center;
+    input{
+        width: 200px;
+        height: 26px;
+        margin: 20px;
+        background-color: #e7e5e5;
+        border: none;
+        border-radius: 5px;
+        padding-right: 10px;
+    }
+    button{
+        cursor: pointer;
+    }
+}
+.onlineExamMainBox{
+    width: 90%;
+    margin: 20px auto;
+    border: 1px solid #ccc;
+    height: 330px;
+    border-radius: 5px 5px 0 0;
+    .onlineExamTopMenu{
+        display: flex;
+        justify-content: space-between;
+        
+        direction: rtl;
+        background-color: #ccc;
+        height: 50px;
+        border-radius: 5px 5px 0 0;
+        p{
+            margin-right: 15px;
+            margin-left: 15px;
+        }
+    }
+    .btnBox{
+        text-align: center;
+        margin-top: 70px;
+        button{
+            margin: 15px;
+            cursor: pointer;
+        }
+    }
+    .questionMainBox{
+        direction: rtl;
+        margin-right: 15px;
+        .scoreAndQuestionBox{
+            display: flex;
+            justify-content: space-between;
+            p{
+                margin-left: 15px;
+            }
+        }
+    }
+    .table{
+        margin: auto;
+        width: 900px;
+        text-align: center;
+        margin-top: 100px;
+        .thBox{
+            display: flex;  
+            border: 1px solid #ccc;
+            font-weight:bolder;
+            height: 26px;
+            line-height: 1.5;
+            width: 900px;
+            .div2{
+                border-right: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+                width: 300px;
+            }
+            .div{
+                width: 300px;
+            }
+        }
+        .tdBox{
+            display: flex;
+            border: 1px solid #ccc;
+            height: 26px;
+            line-height: 1.5;  
+            width: 900px; 
+            .correct{
+                color: green;
+                width: 300px;
+            }
+            .wrong{
+                width: 300px;
+                color: red;
+                border-right: 1px solid #ccc;
+                border-left: 1px solid #ccc;
+            }
+            .empty{
+                width: 300px;
+            }
+        }
+        .totalScore{
+            border: 1px solid #ccc;
+            width: 900px;
+            height: 26px;
+            line-height: 1.5;
+            color: green;
+        }
+        .greenColor{
+            color: green;    
+        }
+        .redColor{
+            color: red;    
+        }
+    }
+}

@@ -1,0 +1,279 @@
+{
+  "onlineExam": [
+    {
+      "question": " به ادرس منحصربه فرددر اینترنت .............گفته میشود",
+      "choice1": "URL",
+      "choice2": "Web site",
+      "choice3": "HTML",
+      "choice4": "HTTP",
+      "rightAnswer": "URL",
+      "score": 4,
+      "userAnswer": "Web site",
+      "id": 1
+    },
+    {
+      "question": "تأييد استانداردهای وب برعهده کداميک می باشد؟",
+      "choice1": "IEEE",
+      "choice2": "W3C",
+      "choice3": "Netscape",
+      "choice4": "Microsoft",
+      "rightAnswer": "W3C",
+      "score": 4,
+      "userAnswer": "Netscape",
+      "id": 2
+    },
+    {
+      "question": "اگر بخواهیم متن را همان گونه که تایپ کرده ایم در مرور گر نمایش دهیم از کدام بر چسب استفاده می کنیم؟",
+      "choice1": "<P>",
+      "choice2": "<Pre>",
+      "choice3": "<&Nbsp>",
+      "choice4": "هیچکدام",
+      "rightAnswer": "<Pre>",
+      "score": 4,
+      "userAnswer": "<&Nbsp>",
+      "id": 3
+    },
+    {
+      "question": "برای ایجاد یک خط افقی از کدام تگ استفاده می کنیم؟",
+      "choice1": "<Br>",
+      "choice2": "<P>",
+      "choice3": "<Hr>",
+      "choice4": "<Body>",
+      "rightAnswer": "<Hr>",
+      "score": 4,
+      "userAnswer": "<Hr>",
+      "id": 4
+    },
+    {
+      "question": " CSS مخفف چيست؟",
+      "choice1": "Creative Style Sheets",
+      "choice2": "Colorful Style Sheets",
+      "choice3": "Computer Style Sheets",
+      "choice4": "Cascading Style Sheets",
+      "rightAnswer": "Cascading Style Sheets",
+      "score": 4,
+      "userAnswer": "Colorful Style Sheets",
+      "id": 5
+    },
+    {
+      "question": "کدام گزينه، يک گرامر صحيح براي تعريف CSS دارد؟",
+      "choice1": "{body;color:black;}",
+      "choice2": "body {color: black;}",
+      "choice3": "body:color=black;",
+      "choice4": "{body:color=black(body}",
+      "rightAnswer": "body {color: black;}",
+      "score": 4,
+      "userAnswer": "body:color=black;",
+      "id": 6
+    },
+    {
+      "question": "کدام گزینه کلمه book را به صورت زیر خط دار نمایش می دهد؟",
+      "choice1": "<p>book</p>",
+      "choice2": "<b>book</b>",
+      "choice3": "<i>book</i>",
+      "choice4": "<u>book</u>",
+      "rightAnswer": "<u>book</u>",
+      "score": 4,
+      "userAnswer": "<u>book</u>",
+      "id": 7
+    },
+    {
+      "question": "وب چیست؟",
+      "choice1": "شبکه به هم پیوسته کامپیوترها در کل اینترنت",
+      "choice2": "سرویس گرافیکی اینترنت جهت انتقال اطلاعات",
+      "choice3": "کامپیوترهای سرویس دهنده وب",
+      "choice4": "شبکه تار عنکبوتی کامپیوتر های اینترنت",
+      "rightAnswer": "سرویس گرافیکی اینترنت جهت انتقال اطلاعات",
+      "score": 4,
+      "userAnswer": "کامپیوترهای سرویس دهنده وب",
+      "id": 8
+    },
+    {
+      "question": "نشانی وب سایت انجمن وب چیست؟",
+      "choice1": "www.w3.org",
+      "choice2": "www.web.com",
+      "choice3": "www.w3c.org",
+      "choice4": "الف وج",
+      "rightAnswer": "www.w3c.org",
+      "score": 4,
+      "userAnswer": "www.web.com",
+      "id": 9
+    },
+    {
+      "question": "کدام صفت در CSS، اندازه قلم را کنترل ميکند؟",
+      "choice1": "font-style",
+      "choice2": "font-size",
+      "choice3": "text-size",
+      "choice4": "text-style",
+      "rightAnswer": "font-size",
+      "score": 4,
+      "userAnswer": "text-size",
+      "id": 10
+    },
+    {
+      "question": "برای نمايش متن در صفحه وب، عنصر متن بايد مابين چه تگی قرار گيرد؟",
+      "choice1": "<head></head>",
+      "choice2": "<text></text>",
+      "choice3": "<body></body>",
+      "choice4": "<html></html>",
+      "rightAnswer": "<body></body>",
+      "score": 4,
+      "userAnswer": "<html></html>",
+      "id": 11
+    },
+    {
+      "question": "محتویات قابل مشاهده در صفحه ی وب در کدام تگ نوشته میشود؟",
+      "choice1": "Head",
+      "choice2": "Html",
+      "choice3": "Body",
+      "choice4": "Title",
+      "rightAnswer": "Body",
+      "score": 4,
+      "userAnswer": "Body",
+      "id": 12
+    },
+    {
+      "question": "برای اطمینان از مشاهده صفحه وب توسط همه مرورگر ها می توان لایه ها را به ..............تبدیل کرد.",
+      "choice1": "بلوک",
+      "choice2": "دکمه",
+      "choice3": "css",
+      "choice4": "جدول",
+      "rightAnswer": "جدول",
+      "score": 4,
+      "userAnswer": "جدول",
+      "id": 13
+    },
+    {
+      "question": "در صورتیکه مرورگرنتواند تصویری رانمایش دهد،جای آن پیامی نمایش داده می شود،آن پیام،درکدام ویژگی ازتگ<Img> نوشته می شود؟",
+      "choice1": "Txt",
+      "choice2": "Href",
+      "choice3": "Src",
+      "choice4": "Alt",
+      "rightAnswer": "Alt",
+      "score": 4,
+      "userAnswer": "Href",
+      "id": 14
+    },
+    {
+      "question": "برای تعیین آدرس پایه در یک سایت از کدام برچسب باید استفاده شود ؟",
+      "choice1": "<Address>",
+      "choice2": "<Html>",
+      "choice3": "<File>",
+      "choice4": "<Base>",
+      "rightAnswer": "Address",
+      "score": 4,
+      "userAnswer": "<File>",
+      "id": 15
+    },
+    {
+      "question": "كدام يك از گزينه هاي زيربراي كد نويسي سمت سرويس گيرنده استفاده ميشود؟",
+      "choice1": "asp.net",
+      "choice2": "PHP",
+      "choice3": "javaScript",
+      "choice4": "jsp",
+      "rightAnswer": "javaScript",
+      "score": 4,
+      "userAnswer": "javaScript",
+      "id": 16
+    },
+    {
+      "question": "معادل کاراکتر فضای خالی در استاندارد Unicode چیست ؟",
+      "choice1": "&nspn",
+      "choice2": "Nbsp",
+      "choice3": "Nspn",
+      "choice4": "&nbsp",
+      "rightAnswer": "&nbsp",
+      "score": 4,
+      "userAnswer": "Nspn",
+      "id": 17
+    },
+    {
+      "question": "در جای خالی لینک زیر کدام گزینه را قرار می دهیم تا صفحه پیوند داده شده در یک صفحه جدید مرور گر باز شود؟ target=”………………”",
+      "choice1": "_top",
+      "choice2": "_ blank",
+      "choice3": " _self",
+      "choice4": "_parent",
+      "rightAnswer": "_ blank",
+      "score": 4,
+      "userAnswer": " _self",
+      "id": 18
+    },
+    {
+      "question": " استفاده از كدام برچسب باعث ايجاد ليست هاي شماره دار مي شود؟",
+      "choice1": "ul",
+      "choice2": "li",
+      "choice3": "ol",
+      "choice4": "dl",
+      "rightAnswer": "ol",
+      "score": 4,
+      "userAnswer": "ol",
+      "id": 19
+    },
+    {
+      "question": "برای پخش یک فایل صوتی درزمینه صفحه وب, باید برچسب<Bgsound> رادرکدام قسمت برنامه نوشت؟",
+      "choice1": "<Head>",
+      "choice2": "<Title>",
+      "choice3": "<Body>",
+      "choice4": "<Sound>",
+      "rightAnswer": "<Body>",
+      "score": 4,
+      "userAnswer": "<Sound>",
+      "id": 20
+    },
+    {
+      "question": "متنی که قرار است در بدنه صفحه وب به نمایش در اید درکدام تگ نوشته می شود؟",
+      "choice1": "<HEAD>",
+      "choice2": "<OL>",
+      "choice3": "<BODY>",
+      "choice4": "<UL>",
+      "rightAnswer": "<BODY>",
+      "score": 4,
+      "userAnswer": "<BODY>",
+      "id": 21
+    },
+    {
+      "question": "کداميک از انواع لينکها برای پيوند به قسمتهای داخل يک صفحه مورد استفاده قرار می گيرد؟",
+      "choice1": "mailto",
+      "choice2": "anchor",
+      "choice3": "relative",
+      "choice4": "absolute ",
+      "rightAnswer": "anchor",
+      "score": 4,
+      "userAnswer": "anchor",
+      "id": 22
+    },
+    {
+      "question": "يك فايل Html با كدام تگ شروع ميشود؟",
+      "choice1": "<Html>",
+      "choice2": "<Body>",
+      "choice3": " <Head>",
+      "choice4": "<Title>",
+      "rightAnswer": "<Html>",
+      "score": 4,
+      "userAnswer": " <Head>",
+      "id": 23
+    },
+    {
+      "question": "براي حذف underline زير لينکها، کدام کد CSS استفاده ميشود؟",
+      "choice1": "a {decoration:no underline}",
+      "choice2": "a {text-decoration:none}",
+      "choice3": "a {underline:none}",
+      "choice4": "a {text-decoration:no underline}",
+      "rightAnswer": "a {text-decoration:none}",
+      "score": 4,
+      "userAnswer": "a {underline:none}",
+      "id": 24
+    },
+    {
+      "question": "کدام یک از گزینه های زیر قالب صفحات وب است؟",
+      "choice1": ".htmو.html",
+      "choice2": ".htmlو.ht",
+      "choice3": "htو.utf",
+      "choice4": ".utfو.html",
+      "rightAnswer": ".htmو.html",
+      "score": 4,
+      "userAnswer": "htو.utf",
+      "id": 25
+    }
+  ]
+}
